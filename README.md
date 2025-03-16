@@ -11,7 +11,7 @@ INTRO ABOUT YOU
 - PYTHON
 
 ## Projects
-- [PROJECTNAME](https://github.com/GITHUBNAME/PROJECTNAME): PROJECT DESCRIPTION
+- [YouChatApp](https://github.com/pangzhen82/YouChatApp): WPF UI chat application
 
 ## Let's Connect
 Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.com/in/pang-zhen). I'm always up for an insightful conversation!
