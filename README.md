@@ -1,7 +1,7 @@
 # ZHEN PANG [![GitHub Badge](https://img.shields.io/github/followers/PANGZHEN82?label=Followers&logo=GitHub&style=social)](https://github.com/PANGZHEN82)
 
 ## About Me
-INTRO ABOUT YOU
+Results-driven Software Developer with expertise in C/C++, C#, JAVA, Python, cloud application development, and software engineering principles. U.S. Army veteran with hands-on experience in Agile methodologies, microservices architecture, and secure software development. Adept at designing and optimizing mission-critical software solutions, integrating automation, and enhancing system performance. Currently completing the MSSA Cloud Application Development program, gaining proficiency in Azure, DevOps,and full-stack development.
 
 ## Interests
 - **Languages:**
