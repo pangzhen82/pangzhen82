@@ -11,7 +11,7 @@ Results-driven Software Developer with expertise in C/C++, C#, JAVA, Python, clo
 - PYTHON
 
 ## Projects
-- [YouChatApp](https://github.com/pangzhen82/YouChatApp): WPF UI chat application
+- [YouChatApp](https://github.com/pangzhen82/YouChatApp): WPF UI chat application - Multi User Chat UI with Client and Server Connection
 
 ## Let's Connect
 Feel free to drop a line or simply say hello on [LinkedIn](https://www.linkedin.com/in/pang-zhen). I'm always up for an insightful conversation!
