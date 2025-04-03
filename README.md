@@ -9,6 +9,7 @@ Results-driven Software Developer with expertise in C/C++, C#, JAVA, Python, clo
 - C/C++
 - JAVA
 - PYTHON
+- SHELL SCRIPTING
 
 ## Projects
 - [YouChatApp](https://github.com/pangzhen82/YouChatApp): WPF UI chat application - Multi User Chat UI with Client and Server Connection
